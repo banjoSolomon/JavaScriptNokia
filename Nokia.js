@@ -548,3 +548,4 @@ class Nokia {
 
 const nokia = new Nokia();
 nokia.displayMenu();
+
